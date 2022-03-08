@@ -1,6 +1,9 @@
 <img src="https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?cs=srgb&dl=pexels-pixabay-270348.jpg&fm=jpg" >
 
+<head>
+
   <script src="https://kit.fontawesome.com/12f928bf4f.js" crossorigin="anonymous"></script>
+
 </head>
 <body>
     <h1 style="font-family: Georgia, 'Times New Roman', Times, serif; text-align: center;">
